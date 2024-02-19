@@ -1,0 +1,19 @@
+{"products" : [
+    { "id_product": 1, "name": "Industrial", "img": "images/1.jpg", "price": 1000, "id_category": 2 },
+    { "id_product": 2, "name": "Flores de Loto", "img": "images/2.jpg", "price": 200, "id_category": 2 },
+    { "id_product": 3, "name": "Brazalete de Cuero", "img": "images/3.jpg", "price": 300, "id_category": 3 },
+    { "id_product": 4, "name": "Maya", "img": "images/4.jpg", "price": 500, "id_category": 1 },
+    { "id_product": 5, "name": "Malla", "img": "images/5.jpg", "price": 700, "id_category": 2 },
+    { "id_product": 6, "name": "Cenizas", "img": "images/6.jpg", "price": 700, "id_category": 2 },
+    { "id_product": 7, "name": "Vintage", "img": "images/7.jpg", "price": 700, "id_category": 2 },
+    { "id_product": 8, "name": "Telar", "img": "images/8.jpg", "price": 700, "id_category": 1 },
+    { "id_product": 9, "name": "Indio", "img": "images/9.jpg", "price": 700, "id_category": 2 },
+    { "id_product": 10,"name": "Ferreo", "img": "images/10.jpg", "price": 700, "id_category": 1 },
+    { "id_product": 11,"name": "Jijutzu", "img": "images/11.jpg", "price": 700, "id_category": 1 },
+    { "id_product": 12,"name": "Itiku", "img": "images/12.jpg", "price": 700, "id_category": 1 }
+],
+"category" : [
+    { "id_category": 1, "name": "Oro"},
+    { "id_category": 2, "name": "Plata"},
+    { "id_category": 3, "name": "Cuero"}
+]}
